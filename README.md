@@ -13,8 +13,6 @@ The Weather App is a simple and user-friendly mobile application built using Flu
 - Intuitive and clean user interface designed for easy navigation.
 - Powered by <a href="https://www.weatherapi.com/" title="Weather API">WeatherAPI.com</a>
 
-<a href="https://www.weatherapi.com/" title="Free Weather API"><img width=100 src='//cdn.weatherapi.com/v4/images/weatherapi_logo.png' alt="Weather data by WeatherAPI.com" border="0"></a>
-
 ## Screenshots
 
 <div align="center">

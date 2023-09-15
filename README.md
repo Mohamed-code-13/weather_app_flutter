@@ -33,7 +33,7 @@ Follow these steps to install and run the Weather App:
 
 2. Navigate to the project directory:
    ```bash
-   cd weather_app
+   cd weather_app_flutter
    ```
 3. Install dependencies:
    ```bash
